@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "serg_life mern",
+  "mongoUrl": "mongodb+srv://serg_life:12345qwerty@cluster0-rwmcx.azure.mongodb.net/app",
+  "baseUrl": "http://localhost:5000"
+}
